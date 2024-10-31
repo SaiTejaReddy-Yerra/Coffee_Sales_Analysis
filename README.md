@@ -6,7 +6,7 @@ This project provides an in-depth analysis of coffee shop sales using advanced E
 
 Below is a snippet of the final dashboard in Excel.
 
-![Coffee Sales Dashboard]()
+![Coffee Sales Dashboard](Dashboard.png)
 
 ## Table of Contents
 
