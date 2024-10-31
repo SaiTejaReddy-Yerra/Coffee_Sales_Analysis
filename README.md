@@ -4,6 +4,10 @@
 
 This project provides an in-depth analysis of coffee shop sales using advanced Excel techniques to derive actionable insights. From customer demographics to product metrics and business trends, this analysis presents a clear snapshot of key factors driving coffee sales. The insights can support data-driven decision-making in marketing, inventory management, and customer relations.
 
+Below is a snippet of the final dashboard in Excel.
+
+![Coffee Sales Dashboard]()
+
 ## Table of Contents
 
 1. Key Objectives
